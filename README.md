@@ -1,6 +1,6 @@
 # AdventOfCode2017
 
-**TODO: Add description**
+Solutions for [Advent Of Code 2017](http://adventofcode.com/)
 
 ## Installation
 
